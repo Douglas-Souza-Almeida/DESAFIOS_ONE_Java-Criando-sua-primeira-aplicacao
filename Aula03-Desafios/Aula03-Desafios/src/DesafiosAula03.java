@@ -127,5 +127,6 @@ public class DesafiosAula03 {
             }
             System.out.println(String.format("O valor fatorial  é %d", factorial));
         }
+        reading.close();
     }
 }
